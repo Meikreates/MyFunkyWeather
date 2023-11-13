@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Funky Weather App</string>
+    <string name="get_your_weather">Get Your Weather</string>
+    <string name="whats_the_weather">Whats the Weather?</string>
+</resources>

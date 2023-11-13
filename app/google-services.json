@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420837736959",
+    "project_id": "funky-weather-app",
+    "storage_bucket": "funky-weather-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420837736959:android:300c05928bd55b75b1a7ca",
+        "android_client_info": {
+          "package_name": "com.myfunkyweather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA483LSDi2VyVeF8YcZI_VTQWMoFaV7rGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
